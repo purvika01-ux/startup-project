@@ -4,7 +4,7 @@
 
 **One-line pitch:** One-tap sales tracking that tells a shop owner when a trend is slowing down, how much to reorder, and when to run a clearance offer, before the stock goes dead.
 
-**The business:** My father's shop in Ludhiana. It sells artificial jewellery, cosmetics and small girls' items (hairbands, claw clips, scrunchies). It gets 30–40 customers a day, mostly college girls and housewives, and buys wholesale from local wholesalers and from Delhi. Ludhiana has hundreds of shops like it.
+**The business:** My father's shop in Agra. It sells artificial jewellery, cosmetics and small girls' items (hairbands, claw clips, scrunchies). It gets 30–40 customers a day, mostly college girls and housewives, and buys wholesale from local wholesalers and from Delhi. Agra has hundreds of shops like it.
 
 **How they handle it today:**
 - He decides what to buy from customer requests and a WhatsApp group of shop owners, which he says is about 50% accurate: wholesalers post their own stock, and Delhi taste isn't local taste.
