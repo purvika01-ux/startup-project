@@ -21,7 +21,7 @@
 
 **The business:** Small doctor's clinics. Their waiting rooms are a visible problem, and clinics pay more readily than kiryana stores. Most of the system is already built.
 
-**How they handle it today:** _TBD: confirm at the clinic visit (paper slips, the receptionist calling names, first come first served?)_
+**How they handle it today:** Patients' names are written in a register as they arrive. Then they wait in the clinic, often in long queues, with no idea when their turn will come.
 
 **Who I'll talk to this week:** _TBD: clinic name and doctor or receptionist_
 
